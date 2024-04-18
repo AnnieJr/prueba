@@ -1,0 +1,41 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #D862BC;
+    text-align: center;
+    border: dotted; color:#D862BC;
+    padding: 2px 10px;
+    margin: 40px;
+    width: 500px
+}
+
+h3{
+    color:#8644A2;
+    font-family: urbanist;
+    text-align: justify;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#8644A2;
+    width: 700px;
+    text-align: left;
+    
+}
+
+#parrafo-1{
+    color: #D862BC
+}
+#parrafo-2{
+    color:#D862BC
+}
+#lista{
+    color:#e930af;
+    font-family: urbanist;
+}
+#parrafo-3{
+    color:#e930af
+}
+
+body{
+    background-color: #FFEBB2;
+}
